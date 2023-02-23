@@ -1,0 +1,53 @@
+ASSIGNMENT1:
+
+try ssh authentication menthod for cloning your repo to your local
+
+ASSIGNMENT2:
+TRY all commands from git cheat sheet
+https://education.github.com/git-cheat-sheet-education.pdf
+
+
+Assignment3: 
+find difference between EAR,WAR,JAR
+
+Assignment4:
+check how to setup jenkins on vm either azure or aws
+
+Assignments5:
+create a pipeline to print the files existing on the master server-- home directory
+  * this pipeline should auto trigger
+
+
+Assignment6:
+Find difference between scripted pipeline and declrative pipeline in jenkins
+find difference in ANT, maven and gradle
+explore option in jenkins
+try cron job example you want to execute any job on every monday at 4 PM
+
+
+Assignment7:
+try to deploy to terraform code using jenkins pipeline
+try terraform commands from this cheat sheet https://zerotomastery.io/cheatsheets/terraform-cheat-sheet/
+
+
+Assignment8:
+check how to setup ssh authentication between 2 vm
+check real time scenraios where we can use terraform and ansible
+
+
+assignment9:
+install docker
+setup docker hub account
+make sure docker enginer service is running
+create terraform template to setup below services and it should be in modules structure
+1. vm
+2. sql servers
+3. storage account
+try to run terraform code from jenkins pipeline
+
+
+
+assignment9:
+try to run ansible playbook
+try notify and handler concept, in this case your play 2 should only execute once your play 1 is completed.
+example: play 1 install nginx, play 2 stop the nginx services
